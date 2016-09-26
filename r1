@@ -1,0 +1,12 @@
+#include<stdio.h>
+intmain()
+{
+int a;
+if(a>0)
+printf("the number is possitive\n");
+elseif(a<0)
+printf("the number is negative\n");
+elseif(a=0)
+printf("the number is equal to zero\n");
+return(0);
+}
